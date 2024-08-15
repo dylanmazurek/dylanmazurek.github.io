@@ -1,5 +1,12 @@
 {
   "products": [
-    { "id": 1 }
+    {
+      "store": "woolworths",
+      "id": 87143
+    },
+    {
+      "store": "woolworths",
+      "id": 191046
+    }
   ]
 }
